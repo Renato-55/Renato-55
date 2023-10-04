@@ -16,9 +16,7 @@
 🚀 Accelerating Towards the Future, One Line of Code at a Time!
 
 📫 Connect With Me:
-- 📧 Email: renato.dev@codingwizardry.ai
-- 🌐 Portfolio: [renatowizardry.dev](https://www.renatowizardry.dev)
-- 🐦 Twitter: [@renato_the_wizard](https://twitter.com/renato_the_wizard)
+- 📧 Email: renatoaobarbosa@gmail.com
 
 🌟 Embrace the magic of code and let's conjure brilliance! 💫✨
 
