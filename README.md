@@ -35,20 +35,13 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-
 <br/>
 
-🌐 Journey Through the Digital Cosmos:
-- 🌌 Explore my repositories and unearth hidden gems!
-<br/>
-🚀 Accelerating Towards the Future, One Line of Code at a Time!
-<br/>
+### Contects
 📫 Connect With Me:
 <br/>
 - 📧 Email: renatoaobarbosa@gmail.com
 <br/>
 <a href="https://www.linkedin.com/in/renato-barbosa-268b81198/"> <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
-
 <br/>
-🌟 Embrace the magic of code and let's conjure brilliance! 💫✨
 
