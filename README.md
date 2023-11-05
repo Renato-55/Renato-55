@@ -36,19 +36,19 @@
 </div><br/>
 
 
-</br>
+<br/>
 
 🌐 Journey Through the Digital Cosmos:
 - 🌌 Explore my repositories and unearth hidden gems!
-</br>
+<br/>
 🚀 Accelerating Towards the Future, One Line of Code at a Time!
-</br>
+<br/>
 📫 Connect With Me:
-</br>
+<br/>
 - 📧 Email: renatoaobarbosa@gmail.com
-</br>
+<br/>
 <a href="https://www.linkedin.com/in/renato-barbosa-268b81198/"> <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
 
-</br>
+<br/>
 🌟 Embrace the magic of code and let's conjure brilliance! 💫✨
 
