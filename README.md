@@ -44,7 +44,9 @@
 🚀 Accelerating Towards the Future, One Line of Code at a Time!
 </br>
 📫 Connect With Me:
+</br>
 - 📧 Email: renatoaobarbosa@gmail.com
+</br>
 <a href="https://www.linkedin.com/in/renato-barbosa-268b81198/"> <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
 
 </br>
